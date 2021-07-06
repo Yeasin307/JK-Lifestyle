@@ -1,0 +1,76 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.second-sec{
+    background-image: url(image/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.third-sec h2{
+    text-align: center;
+}
+.third-sec p{
+    width: 50%;
+    margin: auto;
+}
+.forth-sec{
+    margin: 20px;
+}
+.forth-sec img{
+    height: 60%;
+    width: 100%;
+}
+.five-sec{
+    text-align: center;
+}
+.div{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.first-div{
+    margin-top: 80px;
+}
+h1{
+    font-size: 54px;
+}
+.span{
+    color: orange;
+}
+.anchor{
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 25px;
+}
+.img{
+    height: 80%;
+    width: 100%;
+    border-radius: 35px;
+}
+.forth-div{
+    box-shadow: 10px 10px 20px gray;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.follow{
+    height: 2%;
+    width: 2%;
+}
+footer{
+    background-color: black;
+    height: 200px;
+}
+.footer{
+    text-align: center;
+    
+}
+#white{
+    color: white;
+}
